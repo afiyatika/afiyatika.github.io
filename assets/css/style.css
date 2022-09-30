@@ -30,6 +30,7 @@ a,a:hover,a:active,a:focus {
     font-weight: 500;
 }
 h1,h2,h3,h4,h5,h6 { 
+    line-height: 1.6;
 	margin: 0;
 	color:#5f5b57;
     font-size: 18px;
@@ -287,7 +288,7 @@ ul.cart-list > li.total {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    height: 920px;
+    height: 320px;
 }
 .welcome-hero-txt h4 {
     color: #998d80;
@@ -678,7 +679,7 @@ p.arrival-review span {margin-right: 15px;}
 .single-feature,.single-blog {margin-bottom:30px;}
 
 /*.single-feature-txt */
-.single-feature-txt,.single-blog-txt{margin-top: 25px;}
+.single-feature-txt,.single-blog-txt{margin-top: 4px;}
 .single-feature-txt p i {
     color:  #efce4a;
     margin-left:  5px;
@@ -692,7 +693,7 @@ span.feature-review {margin-left: 10px;}
 }
 .single-feature-txt h5 {
     color:  #5f5b57;
-    font-weight:  400;
+    font-weight:  lighter;
 }
 /*.single-feature-txt */
 

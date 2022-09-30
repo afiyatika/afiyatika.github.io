@@ -49,7 +49,7 @@
 @media screen and (max-width:767px){
 	.wrap-sticky nav.navbar.bootsnav.sticked nav.navbar.bootsnav ul.nav > li > a {padding: 15px 25px;}
 	
-	.single-welcome-hero {height:auto;background: transparent;padding: 100px 0;display: block;}
+	.single-welcome-hero {height:auto;background: white;padding: 100px 0 20px 0;display: block;}
 
 	.feature-content,.blog-content,.new-arrivals-content{margin-top:40px;}
 	
