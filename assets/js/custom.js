@@ -54,7 +54,6 @@ $(document).ready(function(){
 					owl.trigger('stop.owl.autoplay')
 				})
 
-		// ii.  testimonial-carousel
 		
 			$("#collection-carousel").owlCarousel({
 				items: 1,
